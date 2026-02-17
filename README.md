@@ -1,4 +1,5 @@
-# Closest-Pair-of-Points-project# Closest Pair of Points in GIS
+# Closest-Pair-of-Points-project
+# Closest Pair of Points in GIS
 
 ## Project Overview:
 This project solves the Closest Pair of Points problem in Geographical Information Systems (GIS). It compares a Naive Algorithm (Brute Force) and an Optimized Algorithm (Plane Sweep) for finding the closest pair of points efficiently. Applications include emergency response, urban planning, and sensor networks.
