@@ -1,4 +1,3 @@
-# Closest-Pair-of-Points-project
 # Closest Pair of Points in GIS
 
 ## Project Overview:
