@@ -11,8 +11,8 @@ This project solves the Closest Pair of Points problem in Geographical Informati
 The Naive Algorithm works well for small datasets but becomes inefficient as the dataset size increases. The Optimized Algorithm scales efficiently and maintains performance with larger datasets.
 
 ## Files Included:
-1. algorithm1.yy: Naive Algorithm code.
-2. algorithm2.yy: Optimized Algorithm code.
+1. algorithm1.py: Naive Algorithm code.
+2. algorithm2.py: Optimized Algorithm code.
 3. ProjectReport.pdf: Detailed project report.
 4. ProjectPresentation.pdf: Project presentation.
 5. Guidelines.pdf: The project guidelines provided by the instructor.
