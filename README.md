@@ -15,6 +15,7 @@ The Naive Algorithm works well for small datasets but becomes inefficient as the
 2. algorithm2.yy: Optimized Algorithm code.
 3. ProjectReport.pdf: Detailed project report.
 4. ProjectPresentation.pdf: Project presentation.
+5. Guidelines.pdf: The project guidelines provided by the instructor.
 
 ## Group Project:
 This is a group project where collaboration was key to solving the Closest Pair of Points problem using both a Naive Algorithm and an Optimized Algorithm.
